@@ -21,7 +21,4 @@ HEADERS  += mainwindow.h \
     settingsDialog.h \
     portAlias.h
 
-RESOURCES += \
-    myfiles.qrc
-
 DISTFILES +=
